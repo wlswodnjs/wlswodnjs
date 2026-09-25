@@ -14,3 +14,13 @@
     alt="Typing SVG"
   />
 </p>
+
+<!-- Tech Stack -->
+<h2 align="left">🛠 Tech Stack</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,spring,mysql,postgres,docker&theme=light&perline=11"
+    alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Java, Spring Boot, MySQL, PostgreSQL, Docker"
+  />
+</p>
