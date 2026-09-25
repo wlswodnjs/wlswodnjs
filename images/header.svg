@@ -1,0 +1,45 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="header-title header-description">
+  <title id="header-title">JaeWonJin · 진재원 — Aspiring Web Developer</title>
+  <desc id="header-description">웹의 앞과 뒤를 함께 공부하는 예비 개발자</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E1B4B"/>
+      <stop offset="55%" stop-color="#25215D"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <clipPath id="card">
+      <rect width="1200" height="320" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <ellipse cx="1050" cy="150" rx="390" ry="300" fill="url(#glow)"/>
+
+    <!-- Right-side shapes stay subdued so the name remains the focal point. -->
+    <circle cx="1115" cy="265" r="180" fill="#8B5CF6" opacity="0.075"/>
+    <path d="M660 320 C780 214 854 261 960 188 S1115 172 1200 79" fill="none" stroke="#A78BFA" stroke-opacity="0.30" stroke-width="1.4"/>
+    <path d="M736 320 C866 248 925 263 1040 205 S1145 185 1200 148" fill="none" stroke="#C4B5FD" stroke-opacity="0.13" stroke-width="1"/>
+    <circle cx="966" cy="99" r="3" fill="#A78BFA" opacity="0.65"/>
+    <circle cx="1088" cy="160" r="2.5" fill="#C4B5FD" opacity="0.65"/>
+
+    <!-- Text hierarchy: role → English name → Korean name → introduction. -->
+    <g font-family="'Noto Sans CJK KR', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif">
+      <text x="78" y="76" font-size="16" font-weight="600" letter-spacing="4" fill="#A78BFA">ASPIRING WEB DEVELOPER</text>
+      <text x="74" y="170" font-size="79" font-weight="700" letter-spacing="-1.5" fill="#F8FAFC">JaeWonJin</text>
+      <text x="80" y="211" font-size="25" font-weight="500" fill="#C4B5FD">진재원</text>
+      <rect x="80" y="228" width="54" height="4" rx="2" fill="url(#accent)"/>
+      <text x="80" y="275" font-size="22" font-weight="400" fill="#DDD6FE">웹의 앞과 뒤를 함께 공부하는 예비 개발자</text>
+    </g>
+  </g>
+</svg>
