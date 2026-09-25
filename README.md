@@ -16,11 +16,45 @@
 </p>
 
 <!-- Tech Stack -->
-<h2 align="left">🛠 Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
+<!-- Frontend -->
 <p align="center">
+  <b>Frontend</b><br/>
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,spring,mysql,postgres,docker&theme=light&perline=11"
-    alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Java, Spring Boot, MySQL, PostgreSQL, Docker"
+    src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=light"
+    alt="JavaScript, TypeScript, React, Next.js"
+  />
+</p>
+
+<!-- Backend -->
+<p align="center">
+  <b>Backend</b><br/>
+  <img
+    src="https://skillicons.dev/icons?i=java,spring&theme=light"
+    alt="Java, Spring Boot"
+  />
+</p>
+
+<!-- Database & Infra -->
+<p align="center">
+  <b>Database · Infra</b><br/>
+  <img
+    src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=light"
+    alt="MySQL, PostgreSQL, Docker"
+  />
+</p>
+
+<!-- AI & Tools -->
+<p align="center">
+  <b>AI · Tools</b><br/>
+  <img
+    src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"
+    alt="OpenAI"
+  />
+  <br/>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,idea,vscode,notion&theme=light"
+    alt="Git, GitHub, IntelliJ IDEA, VS Code, Notion"
   />
 </p>
