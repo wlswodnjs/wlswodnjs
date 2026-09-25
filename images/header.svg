@@ -1,7 +1,6 @@
-
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="header-title header-description">
-  <title id="header-title">JaeWonJin · 진재원 — Aspiring Web Developer</title>
-  <desc id="header-description">웹의 앞과 뒤를 함께 공부하는 예비 개발자</desc>
+  <title id="header-title">JaeWon Jin — Aspiring Web Developer</title>
+  <desc id="header-description">웹의 앞과 뒤를 함께 공부하는 예비 개발자, 진재원</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -33,13 +32,12 @@
     <circle cx="966" cy="99" r="3" fill="#A78BFA" opacity="0.65"/>
     <circle cx="1088" cy="160" r="2.5" fill="#C4B5FD" opacity="0.65"/>
 
-    <!-- Text hierarchy: role → English name → Korean name → introduction. -->
+    <!-- Text hierarchy: role → English name → introduction. -->
     <g font-family="'Noto Sans CJK KR', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif">
       <text x="78" y="76" font-size="16" font-weight="600" letter-spacing="4" fill="#A78BFA">ASPIRING WEB DEVELOPER</text>
-      <text x="74" y="170" font-size="79" font-weight="700" letter-spacing="-1.5" fill="#F8FAFC">JaeWonJin</text>
-      <text x="80" y="211" font-size="25" font-weight="500" fill="#C4B5FD">진재원</text>
-      <rect x="80" y="228" width="54" height="4" rx="2" fill="url(#accent)"/>
-      <text x="80" y="275" font-size="22" font-weight="400" fill="#DDD6FE">웹의 앞과 뒤를 함께 공부하는 예비 개발자</text>
+      <text x="74" y="170" font-size="79" font-weight="700" letter-spacing="-1.5" fill="#F8FAFC">JaeWon Jin</text>
+      <rect x="80" y="205" width="54" height="4" rx="2" fill="url(#accent)"/>
+      <text x="80" y="255" font-size="22" font-weight="400" fill="#DDD6FE">웹의 앞과 뒤를 함께 공부하는 예비 개발자, 진재원</text>
     </g>
   </g>
 </svg>
