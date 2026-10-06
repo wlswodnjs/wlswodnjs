@@ -1,0 +1,98 @@
+--참고 사이트(깃허브 프로필 링크 포함)--
+https://shields.io/
+https://simpleicons.org/
+https://readme-typing-svg.demolab.com/demo/
+https://skillicons.dev/
+
+https://github.com/GoldenPearls/GoldenPearls
+https://github.com/blueconecell/blueconecell
+https://github.com/choigod1023/choigod1023
+https://github.com/Devdha/Devdha
+https://github.com/anys34/anys34
+https://github.com/Heeju-Lee/Heeju-Lee
+https://github.com/jiyeonjeon01
+
+┌───────────────────────────────────────┐
+                                       			
+(Header)                 			
+                                       			
+Hi there, 진재원 | Aspiring Web Developer 👋
+React / Next.js를 중심으로 프론트엔드를 공부하며, Java / Spring으로 백엔드까지 확장하고 있습니다.    
+                                   			
+├───────────────────────────────────────┤
+                                       			
+🐇 About Me								
+(간단한 자기소개)
+
+예시)
+* React와 Next.js를 중심으로 프론트엔드를 공부하고 있습니다.
+* Java/Spring을 함께 학습하며 웹 서비스의 전체 흐름을 이해하고 있습니다.	   
+* 기술을 사용할 때 동작 원리와 필요한 이유를 함께 공부하려고 합니다.  
+* 배운 개념을 프로젝트에 직접 적용하며 경험을 쌓고 있습니다.	   
+	
+├───────────────────────────────────────┤
+
+🚀 FEATURED PROJECTS		   
+                                       			
+캡스톤디자인 프로젝트 (https://github.com/jinwooorp/RecycleYoungs) - In Progress
+개인 프로젝트                         			
+기타 프로젝트                        			
+                                  			
+├───────────────────────────────────────┤
+                                        			
+💻 Tech Stack (아이콘 사용)
+
+Frontend 
+- JavaScript, TypeScript, React, Next.js
+
+Backend
+- Java, Spring Boot, JPA
+ 			   
+Database
+- MySQL, PostgreSQL (Redis 같은건 학습 후에 추가)
+
+Infra
+- Docker (K8s, Jenkins, NGINX 같은건 학습 후에 추가)
+
+Tools
+- Git, GitHub, Visual Studio Code, IntelliJ, Notion 
+                                     			
+├───────────────────────────────────────┤
+                                 			
+🏫 CURRENTLY LEARNING           			
+                                       			
+Next.js - Rendering · Server Components · Data Fetching                              			
+Spring - Spring Boot · REST API
+Database & Persistence - JPA · SQL · Index · Transaction                       		   
+CS - Network · Operating System
+                                 			
+├───────────────────────────────────────┤
+
+📜 Certifications (자격증 취득 후 채워 나갈 예정, 그 전까지는 작성 x)
+
+자격증 예시)
+정보처리산업기사
+SQLD
+리눅스마스터 2급
+토익, 오픽, JLPT 등
+
+├───────────────────────────────────────┤
+
+🎓 Education
+대림대학교 컴퓨터정보학부 (2024.03 ~ Present)
+GPA: 4.21 / 4.5
+
+├───────────────────────────────────────┤
+                                       			
+⭐ GITHUB STATS               		
+                                       			
+활동 통계                             			
+스네이크 게임                            			
+                                   			
+├───────────────────────────────────────┤
+                                       			
+☎️ CONTACT                		
+                                       			
+Email: cjw32111@gmail.com           			
+                                   			
+└───────────────────────────────────────┘
